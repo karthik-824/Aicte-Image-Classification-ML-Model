@@ -1,1 +1,1 @@
-# Aicte-Image-Classificatio-ML-Model
+# Aicte-Image-Classification-ML-Model
