@@ -26,7 +26,7 @@ The project follows a structured pipeline:
 * **Model Architectures:** Convolutional Neural Networks (CNN), MobileNetV2
 * **Hardware:** GPU-enabled setup
 
-## 📊 Key Results
+##  Key Results
 The application allows users to upload images and receive instant predictions with confidence scores.
 * **MobileNetV2:** Achieves high accuracy for diverse, general-purpose images.
 * **CIFAR-10 Model:** Effectively classifies objects into 10 predefined classes (e.g., Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck).
@@ -35,7 +35,7 @@ The application allows users to upload images and receive instant predictions wi
 * *Dog Classification:* 99.94% Confidence (CIFAR-10)
 * *Cat Classification:* 85.75% Confidence (CIFAR-10)
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Clone the repository:**
     ```bash
