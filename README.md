@@ -6,6 +6,8 @@ This project focuses on building an image classification application using pre-t
 
 The application addresses the need for accurate and efficient image recognition by leveraging **MobileNetV2** (for general-purpose classification) and a custom-trained **CIFAR-10** model (for specific object recognition). The solution is deployed as a user-friendly web application using **Streamlit**.
 
+[** Try the Live App on Streamlit **](https://karthik-kuru-edunet-internship-ml-image-classifier.streamlit.app/)
+
 ##  Objectives
 * **Develop an Image Classification System:** Automatically recognize and sort different types of images.
 * **Improve Accuracy:** Ensure identification with minimal errors using robust models.
