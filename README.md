@@ -8,6 +8,11 @@ The application addresses the need for accurate and efficient image recognition 
 
 [Try the Live App on Streamlit](https://karthik-kuru-edunet-internship-ml-image-classifier.streamlit.app/)
 
+## 📸 Preview
+<img width="400" height="250" alt="Screenshot 2026-06-21 162327" src="https://github.com/user-attachments/assets/b33ef9b8-e3c3-4912-b92e-65203d24e791" />
+
+
+
 ##  Objectives
 * **Develop an Image Classification System:** Automatically recognize and sort different types of images.
 * **Improve Accuracy:** Ensure identification with minimal errors using robust models.
