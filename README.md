@@ -9,9 +9,12 @@ The application addresses the need for accurate and efficient image recognition 
 [Try the Live App on Streamlit](https://karthik-kuru-edunet-internship-ml-image-classifier.streamlit.app/)
 
 ## 📸 Preview
-<img width="400" height="250" alt="Screenshot 2026-06-21 162327" src="https://github.com/user-attachments/assets/b33ef9b8-e3c3-4912-b92e-65203d24e791" />
-
-
+<img width="350" height="175" alt="Screenshot 2026-06-21 162327" src="https://github.com/user-attachments/assets/b33ef9b8-e3c3-4912-b92e-65203d24e791" />
+<img width="350" height="175" alt="Screenshot 2026-06-21 163125" src="https://github.com/user-attachments/assets/8e41a6d0-1025-49c0-ae8f-ea1e6365dfd2" />
+<img width="350" height="175" alt="Screenshot 2026-06-21 162400" src="https://github.com/user-attachments/assets/3ee2a795-d490-4832-85f7-3bc5cbddd6ae" />
+<img width="350" height="175" alt="Screenshot 2026-06-21 162423" src="https://github.com/user-attachments/assets/554390d5-b8fb-46e2-9d84-ec9c874b6165" />
+<img width="350" height="175" alt="Screenshot 2026-06-21 162446" src="https://github.com/user-attachments/assets/83d9b1cd-0cb0-479d-accc-c8b0a05d0ae7" />
+<img width="350" height="175" alt="Screenshot 2026-06-21 162510" src="https://github.com/user-attachments/assets/7020caad-6376-45ac-8dc4-ec98af1f4f02" />
 
 ##  Objectives
 * **Develop an Image Classification System:** Automatically recognize and sort different types of images.
